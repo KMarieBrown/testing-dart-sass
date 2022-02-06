@@ -1,0 +1,25 @@
+@use "_abstracts/colors" as c;
+@use "_base/typography" as t;
+@use "_vendors/normalize";
+
+body {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	background: c.$pink;
+}
+h1 {
+	color: c.$blue;
+	font-family: comforter;
+}
+
+h2 {
+	color: c.$blue;
+	font-family: t.$secondary-heading-font;
+}
+p {
+	color: c.$stone;
+	font-family: t.$paragraph-font;
+	margin-left: 10%;
+	margin-right: 10%;
+}

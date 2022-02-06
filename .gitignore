@@ -1,0 +1,11 @@
+# Ignore the node_modules
+node_modules
+
+# Ignore parcel's cache folder
+.cache
+
+# Ignore DS Store files
+.DS_Store
+
+# Avoid uploading the .vscode folder (houses the JSON settings file).
+.vscode
