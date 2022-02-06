@@ -1,3 +1,3 @@
-# testing-dart-sass
+# Testing File for Dart Sass
 
-This file is simply for testing Dart Sass, Parcel and GitHub in VSCode.
+This file is only for testing Dart Sass, Parcel and GitHub in VSCode.
