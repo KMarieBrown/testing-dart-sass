@@ -1,6 +1,6 @@
-@use "_abstracts/colors" as c;
-@use "_base/typography" as t;
-@use "_vendors/normalize";
+@use "abstracts/colors" as c;
+@use "base/typography" as t;
+@use "vendors/normalize";
 
 body {
 	margin: 0;
